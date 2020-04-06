@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-<header>	
-<style type="text/css">
+<header>
+<link rel="stylesheet" type="text/css" href="juncu.com/StyleSheet.css">
 
-</style>	
+	
 </header>	
 
 # stepper-motor-with-ATmega328p
