@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <header>
-<style>
+
 <link rel="stylesheet" type="text/css" href="juncu.com/tolomac/templates/StyleSheet.css">
-</style>
+
 	
 </header>	
 
