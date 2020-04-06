@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <header>
+<style>
 <link rel="stylesheet" type="text/css" href="juncu.com/tolomac/templates/StyleSheet.css">
-
+</style>
 	
 </header>	
 
@@ -10,7 +11,7 @@
 <body>
 control a *4-Phase &amp; 5-Wire Stepper Motor (28BYJ-48-5V, 5V) with UNO REV.3
 
- <h2 class="h2">c++ code without arduino library</h2></br>
+ <h2>c++ code without arduino library</h2></br>
 http://juncu.com/stepper1b.mp4
 </body>
 </html>
