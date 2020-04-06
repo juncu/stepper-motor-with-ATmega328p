@@ -10,6 +10,6 @@
 
 	control a *4-Phase &amp; 5-Wire Stepper Motor (28BYJ-48-5V, 5V) with UNO REV.3
 
- <p><h2>c++ code without arduino library</h2</p></br>
+ <h2>c++ code without arduino library</h2</br>
 http://juncu.com/stepper1b.mp4
 </html>
